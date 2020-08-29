@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrashid62" alt="mdrashid62" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **MERN STACK**
 
 - 🌱 I’m currently learning **React Framework, Headless CMS, Gtasby.js**
 
