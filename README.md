@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **React Framework, Headless CMS, Gtasby.js**
+- 🌱 I’m currently learning **React Framework, Headless CMS, Gtasby.js etc**
 
 - 👯 I’m looking to collaborate on **React projects**
 
-- 👨‍💻 All of my projects are available at [https://iamrashy.netlify.app/](https://iamrashy.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://iamrashy.netlify.app/](https://iamrashy.netlify.app/)
 
 - 💬 Ask me about **Anything**
 
