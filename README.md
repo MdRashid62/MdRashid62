@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://iamrashy.netlify.app/](https://iamrashy.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **rashy.mr62@gmail.com**
 
