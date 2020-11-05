@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rashid</h1>
-<h3 align="center">APTECH Certified Computer Professional Program - ACCP Pr </h3>
+<h3 align="center">APTECH Certified Computer Professional Program - ACCP Pro </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrashid62" alt="mdrashid62" /> </p>
 
