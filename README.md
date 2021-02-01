@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **React Framework, Headless CMS, Gtasby.js **
+- 🌱 I’m currently learning **React Framework, Headless CMS, Gtasby.js e**
 
 - 👯 I’m looking to collaborate on **React projects**
 
