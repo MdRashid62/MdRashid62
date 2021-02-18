@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://iamrashy.netlify.app/"  target="_blank">Rashid!</a> 👋</h1>
     
-<h3 align="center">Aptech Certified Computer Professional (ACCP PRO). Winning, Perspective and Creative!</h3>
+<h3 align="center">Aptech Certified Computer Professional (ACCP PRO). Winning, Purposeful and Creative!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat&color=blueviolet" alt=umararfeen/> </p>
 
 ```python3
