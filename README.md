@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://umar0x01.sh"  target="_blank">Rashid!</a> 👋</h1>
     
 <h3 align="center">Aptech Certified Computer Professional (ACCP PRO). Winning, Perspective and Creative!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anon-Exloiter&style=flat&color=blueviolet" alt=umararfeen/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat&color=blueviolet" alt=umararfeen/> </p>
 
 ```python3
 import os
