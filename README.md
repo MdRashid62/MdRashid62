@@ -1,28 +1,21 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rashid</h1>
-<h3 align="center">APTECH Certified Computer Professional Program ACCP PRO</h3>
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrashid62" alt="mdrashid62" /> </p>
+<h1 align="center">Hi there, I'm <a href="https://umar0x01.sh"  target="_blank">Umar!</a> 👋</h1>
+    
+<h3 align="center">An enthusiastic programmer and pentester who loves to explore, automate, break, learn, and hack all things!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anon-Exloiter&style=flat&color=blueviolet" alt=umararfeen/> </p>
 
-- 🔭 I’m currently working on **MERN STACK**
+```python3
+import os
 
-- 🌱 I’m currently learning **React Framework, Headless CMS, Gtasby.js etc**
+def greet():
+    print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
+```
 
-- 👯 I’m looking to collaborate on **React projects**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anon-Exploiter&count_private=true&show_icons=true&theme=radical" alt=umararfeen /> </p>
 
-- 👨‍💻 Some of my projects are available at [https://iamrashy.netlify.app/](https://iamrashy.netlify.app/)
 
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **rashy.mr62@gmail.com**
-
-- ⚡ Fun fact **Chai over Coffee**
-
-<p align="left"></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrashid62&layout=compact&hide=html" alt="mdrashid62" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdrashid62&show_icons=true" alt="mdrashid62" />
-
-<p align="center">
-<a href="https://twitter.com/mr62rashy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mr62rashy" height="30" width="30" /></a>
-<a href="https://fb.com/rashy.mr62" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rashy.mr62" height="30" width="30" /></a>
-<a href="https://instagram.com/its_rashy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its_rashy" height="30" width="30" /></a>
+<p align="center"> 
+<a href="https://twitter.com/syed__umar" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="syed__umar" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/syedumararfeen/" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.linkedin.com/in/syedumararfeen/" height="25" width="25" /></a>    
 </p>
