@@ -5,12 +5,12 @@
 <h3 align="center">Aptech Certified Computer Professional (ACCP PRO). Winning, Purposeful and Creative!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat&color=blue" alt=umararfeen/> </p>
 
-<script>
+````js
 // my life cycle
 
 def greet():
     print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
-<script>
+````
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdRashid62&count_private=true&show_icons=true&theme=radical" alt=muhammad-rashid /> </p>
 
