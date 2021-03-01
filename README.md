@@ -8,8 +8,10 @@
 ````js
 // my life cycle
 
-def greet():
-    print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
+while ($me.isAlive())
+{
+    $me.eat();
+}
 ````
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdRashid62&count_private=true&show_icons=true&theme=radical" alt=muhammad-rashid /> </p>
