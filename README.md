@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat&color=blue" alt=umararfeen/> </p>
 
 ```python3
-import os
+// my life cycle
 
 def greet():
     print(f"Welcome {os.popen('whoami').read().strip()}!! 👋")
