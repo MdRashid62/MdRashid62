@@ -12,6 +12,9 @@ while ($me.isAlive())
 {
     $me.eat();
     $me.sleep();
+    $me.code();
+    $me.sleep();
+    
 }
 ````
 
