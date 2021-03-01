@@ -11,6 +11,7 @@
 while ($me.isAlive())
 {
     $me.eat();
+    $me.sleep();
 }
 ````
 
