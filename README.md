@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://iamrashy.netlify.app/"  target="_blank">Muhammad Rashid</a> 👋</h1>
     
 <h3 align="center">Aptech Certified Computer Professional (ACCP PRO). Winning Purposeful and Creative!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat&color=blue" alt=umararfeen/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat&color=blue" alt=rashid/> </p>
 
 ````js
 // my life cycle
