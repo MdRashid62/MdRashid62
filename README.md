@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://iamrashy.netlify.app/"  target="_blank">Muhammad Rashid</a> 👋</h1>
     
-<h3 align="center">I'm tech enthusiast who does web development and other cool stuffs</h3>
+<h3 align="center">I'm tech enthusiast who does web development and other cool stuffs😉</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat&color=blue" alt=rashid/> </p>
 
 ````js
