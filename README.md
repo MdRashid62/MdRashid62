@@ -24,8 +24,8 @@ while ($me.isAlive())
 
 
 <p align="center"> 
-<a href="https://www.twitter.com/souravcode" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/souravcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/souravcodeweb" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/souravcodeweb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/Mr62Rashy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Mr62Rashy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/MdRashid62" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MdRashid62?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
