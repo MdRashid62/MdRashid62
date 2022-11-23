@@ -20,6 +20,8 @@ while ($me.isAlive())
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdRashid62&count_private=true&show_icons=true&theme=radical" alt=muhammad-rashid /> </p>
 
+<a href="http://www.github.com/souravcodeweb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=souravcodeweb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <p align="center"> 
 <a href="https://twitter.com/Mr62Rashy" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Mr62Rashy" height="25" width="25" /></a>
