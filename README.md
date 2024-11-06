@@ -4,8 +4,6 @@
     
 <h3 align="center">I'm tech enthusiast who does web development and other cool stuffs😉</h3>    
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat&color=red" alt=rashid/> </p>
 
 ````js
