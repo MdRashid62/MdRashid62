@@ -33,8 +33,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdRashid62&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=333&title_color=fff&icon_color=1DA1F2" alt="Muhammad Rashid's GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdRashid62&stroke=ffffff&background=333&ring=1DA1F2&fire=1DA1F2&currStreakNum=ffffff&currStreakLabel=1DA1F2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%"> 
-</p>
+
 
 ---
 
@@ -47,4 +46,10 @@ while (me.isAlive()) {
     me.code();
     me.repeat();
 }
+
+---
+
+### 🌐 Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdRashid62&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=333&title_color=fff&icon_color=1DA1F2" alt="Muhammad Rashid's GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdRashid62&stroke=ffffff&background=333&ring=1DA1F2&fire=1DA1F2&currStreakNum=ffffff&currStreakLabel=1DA1F2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="48%"> 
+</p>
 
