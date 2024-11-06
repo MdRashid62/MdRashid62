@@ -6,16 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat&color=red" alt=rashid/> </p>
 
-`js
-// my life cycle
+---
 
-while ($me.isAlive())
-{
+### 🛠 My Life Cycle
+```javascript
+// my life cycle
+while ($me.isAlive()) {
     $me.eat();
     $me.sleep();
     $me.code();
     $me.repeat();
-    
 }
 
 
