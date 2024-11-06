@@ -12,11 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=MdRashid62&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-<br>
-</p>
-
 ---
 
 ### 🛠 About Me
