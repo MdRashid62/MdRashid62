@@ -36,6 +36,7 @@
   </a>
 </p>
 
+<p align="center"> <a href="https://iamrashy.netlify.app/" target="_blank"><strong>🌐 Website</strong></a> | <a href="https://twitter.com/Mr62Rashy" target="_blank"><strong>🐦 Twitter</strong></a> | <a href="https://github.com/MdRashid62" target="_blank"><strong>💻 GitHub</strong></a> </p>
 
 
 ---
